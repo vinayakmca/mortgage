@@ -53,6 +53,13 @@
          <version>2.9.2</version>
          <scope>compile</scope>
          </dependency>
+         
+         <dependency>
+           <groupId>com.github.jmnarloch</groupId>
+           <artifactId>modelmapper-spring-boot-starter</artifactId>
+           <version>1.0.1</version>
+        </dependency>
+         
 
         <dependency>
          <groupId>org.codehaus.sonar</groupId>
